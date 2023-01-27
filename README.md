@@ -1,2 +1,2 @@
 # Movie-Database-with-SQL
-[movie database.pdf](https://github.com/Sidgadkari/Movie-Database-with-SQL/files/10522712/movie.database.pdf)
+![movie database](https://user-images.githubusercontent.com/117203131/215187426-ef9dc3da-0b8a-4d49-9664-985fc9bb050e.jpg)
